@@ -13,7 +13,7 @@ Gold Tier Checklist — ALL DONE:
 For hackathon submission you need:
 
 Push to GitHub (public or private with judge access)
-Record a 5-10 minute demo video (follow docs/DEMO_SCRIPT.md)
+Record a 5-10 minute demo video (follow docs/DEMO_SCRIPT.md) (→ Watch Demo on YouTube https://youtu.be/gav99Cv0rqY)
 Submit via the form: https://forms.gle/JR9T1SJq5rmQyGkGA
 
 
