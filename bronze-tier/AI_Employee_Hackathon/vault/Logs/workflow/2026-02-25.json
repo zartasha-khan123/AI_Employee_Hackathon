@@ -1,0 +1,328 @@
+{
+  "date": "2026-02-25",
+  "entries": [
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "8dd78d4b-32f1-4b1c-84c9-8eacac1d575b",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846.md",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "605231ad-e059-4f8f-a01b-cf5396c28a9f",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "04be906d-0ab3-47ed-a707-be27501c08d4",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434.md",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "dcb66ccb-0981-4dad-851e-4ebda5276078",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "ee155308-8121-4b75-a6a2-91887130f0d9",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-exciting-news-we-ve-just-completed-the-implemen-20260214T224124.md",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-the-implemen-20260214T224124-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "08ad7eb6-cf12-4e2d-90a0-b94f3ba52c8f",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-the-implemen-20260214T224124-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "16b24629-3a91-45b5-951d-e3c2ea6e9abd",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-post-demo.md",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "a34d527c-3d76-447b-bcb5-16dee4e29b6b",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "e4171a91-fc4d-4317-b474-17ade57ec144",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "task-test-vault-manager-20250204T170000.md",
+      "target": "plan-task-test-vault-manager-20250204T170000-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "286d5cf3-eb73-455c-abe5-c62d165914c6",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-task-test-vault-manager-20250204T170000-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:53:59Z",
+      "correlation_id": "9b92cd2e-941c-4ff4-b332-ae9b3457ce0f",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "test-demo.md",
+      "target": "plan-test-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:54:00Z",
+      "correlation_id": "792bddea-9007-40eb-80fd-fd47788f6034",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-test-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:54:00Z",
+      "correlation_id": "8a595e27-57f4-4437-b63a-6587451c54f5",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "testmd.md",
+      "target": "plan-testmd-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T10:54:00Z",
+      "correlation_id": "ba1c4c3a-52fd-4a84-96ba-f3cbf5397865",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-testmd-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:02:48Z",
+      "correlation_id": "202761ce-d40f-4d08-86f8-06d28e0db957",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846.md",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:02:49Z",
+      "correlation_id": "3162f6db-d961-4b6e-b4af-3d1394d9d993",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:02:49Z",
+      "correlation_id": "056774c0-bea2-4ae9-bdfb-993130177180",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434.md",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:02:49Z",
+      "correlation_id": "c4cfce43-b042-4dd0-b7ca-f738212bd457",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:02:49Z",
+      "correlation_id": "a5a4e82c-dceb-4a25-a5da-a023931bffb8",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-post-demo.md",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:02:49Z",
+      "correlation_id": "38a03a2f-e796-420d-94a1-3ebdb4abafc3",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:11:49Z",
+      "correlation_id": "55bdffba-674a-4b8c-bf7c-ed7faefc03df",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846.md",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:11:50Z",
+      "correlation_id": "f9955603-4e13-4b82-87f2-f2cd4e09fe2d",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:11:50Z",
+      "correlation_id": "8decd022-d001-4d8c-86f3-b74b7fb994fe",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434.md",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:11:50Z",
+      "correlation_id": "9688d469-a785-40e5-83e3-51cc1d34e28d",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:11:50Z",
+      "correlation_id": "708ee464-fd60-4de3-ac0a-49be214cae56",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-post-demo.md",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:11:50Z",
+      "correlation_id": "f869d05a-f7a5-4e3d-96b2-68f3508e20de",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:13:03Z",
+      "correlation_id": "07678f50-41b5-4ce5-9ffb-158bbf963bfa",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846.md",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:13:03Z",
+      "correlation_id": "97c5394c-2138-4473-921b-2ff6fee4d794",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:13:03Z",
+      "correlation_id": "d8e5d435-09f0-4e2f-aedc-c28832a27820",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434.md",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:13:03Z",
+      "correlation_id": "98ba9db5-f6f9-47da-9e73-4b120542d1fe",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:13:03Z",
+      "correlation_id": "db627153-bf20-478d-a037-ac07082a6f99",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-post-demo.md",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:13:03Z",
+      "correlation_id": "19206ac1-0d28-492a-96f9-7170b9aa1a91",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:17:43Z",
+      "correlation_id": "641d3e49-9246-4356-93c4-6d349153194d",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846.md",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:17:43Z",
+      "correlation_id": "bfc65d7f-1db6-42e4-a1c3-ec9a90d13a40",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:17:43Z",
+      "correlation_id": "900f11b4-f85b-4572-ad05-fb17d59369fe",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434.md",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:17:43Z",
+      "correlation_id": "c24d96ee-c068-463d-a81e-19ebcf822781",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:17:43Z",
+      "correlation_id": "88d3fd64-f77e-4418-a947-10752d7223d4",
+      "actor": "workflow_manager",
+      "action_type": "plan_created",
+      "source": "linkedin-post-demo.md",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-25T11:17:43Z",
+      "correlation_id": "c145dfd6-ff67-4402-906e-f07b20b8b261",
+      "actor": "workflow_manager",
+      "action_type": "moved_to_pending_approval",
+      "target": "plan-linkedin-post-demo-20260225.md",
+      "result": "success"
+    }
+  ]
+}

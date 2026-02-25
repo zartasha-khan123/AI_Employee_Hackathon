@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "_comment": "MCP (Model Context Protocol) server configuration for AI Employee",
+
+  "mcpServers": {
+    "email": {
+      "command": "uv",
+      "args": ["run", "python", "-m", "backend.mcp_servers.email_server.server"],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "DEV_MODE": "${DEV_MODE:-true}",
+        "SMTP_HOST": "${SMTP_HOST:-smtp.gmail.com}",
+        "SMTP_PORT": "${SMTP_PORT:-587}",
+        "SMTP_USER": "${SMTP_USER}",
+        "SMTP_PASSWORD": "${SMTP_PASSWORD}",
+        "ALLOWED_RECIPIENTS": "${ALLOWED_RECIPIENTS}"
+      },
+      "enabled": true,
+      "_comment": "Email sending with safety controls. DEV_MODE=true simulates sends."
+    },
+
+    "calendar": {
+      "command": "python",
+      "args": ["-m", "backend.mcp_servers.calendar_server"],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}"
+      },
+      "enabled": false,
+      "_comment": "Calendar operations (future implementation)"
+    },
+
+    "vault": {
+      "command": "python",
+      "args": ["-m", "backend.mcp_servers.vault_server"],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}"
+      },
+      "enabled": false,
+      "_comment": "Vault file operations (future implementation)"
+    },
+
+    "social": {
+      "command": "uv",
+      "args": ["run", "python", "-m", "backend.mcp_servers.social_server.server"],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "DEV_MODE": "${DEV_MODE:-true}",
+        "LINKEDIN_SESSION_PATH": "${LINKEDIN_SESSION_PATH:-config/linkedin_session}"
+      },
+      "enabled": true,
+      "_comment": "Social media posting (LinkedIn). Requires session authentication."
+    },
+
+    "odoo": {
+      "command": "uv",
+      "args": ["run", "python", "-m", "backend.mcp_servers.odoo_server.server"],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "DEV_MODE": "${DEV_MODE:-true}",
+        "ODOO_URL": "${ODOO_URL}",
+        "ODOO_DATABASE": "${ODOO_DATABASE}",
+        "ODOO_USERNAME": "${ODOO_USERNAME}",
+        "ODOO_API_KEY": "${ODOO_API_KEY}"
+      },
+      "enabled": true,
+      "_comment": "Odoo ERP integration for invoicing and CRM. Requires approval for invoice creation."
+    },
+
+    "payment": {
+      "command": "uv",
+      "args": ["run", "python", "-m", "backend.mcp_servers.payment_server.server"],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "DEV_MODE": "${DEV_MODE:-true}",
+        "STRIPE_API_KEY": "${STRIPE_API_KEY}",
+        "STRIPE_MODE": "${STRIPE_MODE:-test}",
+        "ALLOWED_PAYMENT_RECIPIENTS": "${ALLOWED_PAYMENT_RECIPIENTS}",
+        "MAX_PAYMENT_AMOUNT": "${MAX_PAYMENT_AMOUNT:-1000.0}",
+        "SECONDARY_APPROVAL_THRESHOLD": "${SECONDARY_APPROVAL_THRESHOLD:-100.0}"
+      },
+      "enabled": true,
+      "_comment": "Payment processing via Stripe. ALWAYS requires approval. Rate limited to 3/hour, 10/day."
+    }
+  },
+
+  "globalSettings": {
+    "timeout_ms": 30000,
+    "max_concurrent_servers": 4,
+    "log_level": "INFO",
+    "dev_mode": true
+  }
+}

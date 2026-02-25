@@ -1,0 +1,19 @@
+{
+  "date": "2026-02-15",
+  "entries": [
+    {
+      "timestamp": "2026-02-15T00:14:34Z",
+      "correlation_id": "c8f67054-0dbd-443f-bce5-e1df156319f4",
+      "actor": "linkedin_watcher",
+      "action_type": "post_processed",
+      "target": "linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434.md",
+      "result": "success",
+      "parameters": {
+        "post_type": "business_update",
+        "source": "Content_Calendar.md",
+        "dry_run": false,
+        "dev_mode": true
+      }
+    }
+  ]
+}

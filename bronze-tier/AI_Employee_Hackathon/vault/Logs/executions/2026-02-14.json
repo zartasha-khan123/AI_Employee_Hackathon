@@ -1,0 +1,29 @@
+{
+  "date": "2026-02-14",
+  "entries": [
+    {
+      "timestamp": "2026-02-14T22:57:45Z",
+      "correlation_id": "69b0cd19-7b4e-4fe3-b636-84b43c9e3b97",
+      "actor": "orchestrator",
+      "action_type": "plan_executed",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-the-implemen-20260214T224124-20260214.md",
+      "execution_result": {
+        "status": "pending",
+        "message": "MCP execution not yet implemented"
+      },
+      "result": "success"
+    },
+    {
+      "timestamp": "2026-02-14T23:35:08Z",
+      "correlation_id": "864a19bc-6e45-428b-8ad6-1c1eceef8aa8",
+      "actor": "orchestrator",
+      "action_type": "plan_executed",
+      "target": "plan-linkedin-exciting-news-we-ve-just-completed-the-implemen-20260214T224124-20260214.md",
+      "execution_result": {
+        "status": "simulated",
+        "message": "Dry run - no actual execution"
+      },
+      "result": "success"
+    }
+  ]
+}

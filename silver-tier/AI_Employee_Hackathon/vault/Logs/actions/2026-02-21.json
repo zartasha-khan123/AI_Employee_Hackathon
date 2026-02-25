@@ -1,0 +1,413 @@
+{
+  "date": "2026-02-21",
+  "entries": [
+    {
+      "timestamp": "2026-02-21T12:08:45Z",
+      "correlation_id": "f3d729bd-d581-4916-aac7-2f58bc240d89",
+      "actor": "orchestrator",
+      "action_type": "orchestrator_start",
+      "target": "orchestrator",
+      "result": "success",
+      "parameters": {
+        "details": "DEV_MODE=False",
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:09:01Z",
+      "correlation_id": "545e47c4-fef2-4072-9c0c-581f2271358a",
+      "actor": "action_executor",
+      "action_type": "action_executed",
+      "target": "emailSendTestManual.md",
+      "result": "success",
+      "parameters": {
+        "details": "type=email_send",
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:09:05Z",
+      "correlation_id": "5150fb52-7234-47bd-8e02-74348a587408",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-n8n-cloud-s-access-to-your-google-account-data-wil-20260221T120905.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "19c2cbfb7e190276",
+        "subject": "n8n.cloud's access to your Google Account data will expire soon",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:09:05Z",
+      "correlation_id": "6939f8fe-f8d6-4cc4-aef5-fcfb955e22e0",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-bonsai-security-alert-sign-in-from-sindh-pakistan-20260221T120905.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "19be6b6fb12437df",
+        "subject": "[Bonsai] Security Alert: Sign-in from Sindh, Pakistan",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:09:05Z",
+      "correlation_id": "36aff339-e8b4-49e0-830a-6fecfc0809fe",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-your-2025-v0-vibecheck-is-here-20260221T120905.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "19b516e7af7cff7c",
+        "subject": "Your 2025 v0 Vibecheck is here.",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:09:06Z",
+      "correlation_id": "216d5ff3-a5bd-438d-8331-56176e6d771b",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-verify-your-n8n-account-20260221T120906.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "19a63affbe6283d3",
+        "subject": "Verify your n8n account",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:09:06Z",
+      "correlation_id": "c7a41308-c2c0-4dab-b52b-bd1faa7b139e",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-your-magic-sign-in-link-for-n8n-cloud-20260221T120906.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "19a63a7ec0de16a9",
+        "subject": "Your magic sign in link for n8n cloud",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:10:17Z",
+      "correlation_id": "d8e44768-28b3-423d-833a-2da09a79c628",
+      "actor": "watchdog",
+      "action_type": "watcher_crash",
+      "target": "WhatsApp",
+      "result": "failure",
+      "parameters": {
+        "restart_count": 1,
+        "max_restarts": 3,
+        "details": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[data-testid=\\\"chat-list\\\"], div[aria-label=\\\"Chat list\\\"], #pane-side, div[role=\\\"listitem\\\"], canvas[aria-labe"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:10:17Z",
+      "correlation_id": "c7e1595e-45a0-459d-99ff-6e839660086e",
+      "actor": "watchdog",
+      "action_type": "watcher_restart",
+      "target": "WhatsApp",
+      "result": "success",
+      "parameters": {
+        "restart_count": 1,
+        "max_restarts": 3,
+        "details": "Restart 1/3, backoff 2s"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:11:00Z",
+      "correlation_id": "9bb0d9db-e7c7-4405-a987-2c1956f6e735",
+      "actor": "watchdog",
+      "action_type": "watcher_crash",
+      "target": "WhatsApp",
+      "result": "failure",
+      "parameters": {
+        "restart_count": 2,
+        "max_restarts": 3,
+        "details": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[data-testid=\\\"chat-list\\\"], div[aria-label=\\\"Chat list\\\"], #pane-side, div[role=\\\"listitem\\\"], canvas[aria-labe"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:11:00Z",
+      "correlation_id": "47bb7dfa-7185-4872-a5d9-27c2bcf7d947",
+      "actor": "watchdog",
+      "action_type": "watcher_restart",
+      "target": "WhatsApp",
+      "result": "success",
+      "parameters": {
+        "restart_count": 2,
+        "max_restarts": 3,
+        "details": "Restart 2/3, backoff 4s"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:11:08Z",
+      "correlation_id": "56c40c85-b18e-4e3e-8bca-17bd6284ab1d",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-verify-your-n8n-account-20260221T121108.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "1998287795d596c4",
+        "subject": "Verify your n8n account",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:11:41Z",
+      "correlation_id": "af361303-9f8b-4901-b327-4b62a0cb08f6",
+      "actor": "watchdog",
+      "action_type": "watcher_crash",
+      "target": "WhatsApp",
+      "result": "failure",
+      "parameters": {
+        "restart_count": 3,
+        "max_restarts": 3,
+        "details": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[data-testid=\\\"chat-list\\\"], div[aria-label=\\\"Chat list\\\"], #pane-side, div[role=\\\"listitem\\\"], canvas[aria-labe"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:11:41Z",
+      "correlation_id": "e688a640-563f-4af0-acbf-c1cf05e6e925",
+      "actor": "watchdog",
+      "action_type": "watcher_failed",
+      "target": "WhatsApp",
+      "result": "failure",
+      "parameters": {
+        "restart_count": 3,
+        "max_restarts": 3,
+        "details": "Max restarts (3) exceeded"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:12:12Z",
+      "correlation_id": "fdf32d09-2ca2-48b2-b2a6-a92de16547f1",
+      "actor": "watchdog",
+      "action_type": "watcher_stop",
+      "target": "Gmail",
+      "result": "success",
+      "parameters": {
+        "restart_count": 0,
+        "max_restarts": 3,
+        "details": "Graceful shutdown"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:12:13Z",
+      "correlation_id": "5f99f0f3-da75-4782-a33d-1417c09321c0",
+      "actor": "watchdog",
+      "action_type": "watcher_crash",
+      "target": "LinkedIn",
+      "result": "failure",
+      "parameters": {
+        "restart_count": 1,
+        "max_restarts": 3,
+        "details": "BrowserContext.close: Target page, context or browser has been closed"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:12:13Z",
+      "correlation_id": "b7e828d5-31ac-43d9-b016-4ebfa4a29933",
+      "actor": "watchdog",
+      "action_type": "watcher_restart",
+      "target": "LinkedIn",
+      "result": "success",
+      "parameters": {
+        "restart_count": 1,
+        "max_restarts": 3,
+        "details": "Restart 1/3, backoff 2s"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:12:18Z",
+      "correlation_id": "a4a833a3-45d4-4acf-a7f1-c656bdda2590",
+      "actor": "watchdog",
+      "action_type": "watcher_stop",
+      "target": "LinkedIn",
+      "result": "success",
+      "parameters": {
+        "restart_count": 1,
+        "max_restarts": 3,
+        "details": "Graceful shutdown"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:12:18Z",
+      "correlation_id": "e24c766b-d45e-455d-96a1-7a9dfceabe46",
+      "actor": "orchestrator",
+      "action_type": "orchestrator_stop",
+      "target": "orchestrator",
+      "result": "success",
+      "parameters": {
+        "details": "Graceful shutdown",
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:15:19Z",
+      "correlation_id": "86a00148-83c3-4bd6-83dc-edcfd81b13c1",
+      "actor": "orchestrator",
+      "action_type": "orchestrator_start",
+      "target": "orchestrator",
+      "result": "success",
+      "parameters": {
+        "details": "DEV_MODE=False",
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:15:25Z",
+      "correlation_id": "0a57f5b4-c1d8-40c3-9a07-a219b1e3e2eb",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-verify-your-n8n-account-20260221T121525.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "19906c8b1ca26e07",
+        "subject": "Verify your n8n account",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:15:26Z",
+      "correlation_id": "48654582-2b4e-4521-8523-d3f4bd4a361d",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-one-or-more-of-your-child-s-app-requests-will-expi-20260221T121525.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "1990092edc9c8436",
+        "subject": "One or more of your child’s app requests will expire soon",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:15:26Z",
+      "correlation_id": "71023878-61d2-4753-b983-4451cae7067c",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-your-child-s-app-request-requires-your-approval-20260221T121526.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "198fb6c8e1660b91",
+        "subject": "Your child's app request requires your approval",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:15:27Z",
+      "correlation_id": "b7efd810-dcaa-48fc-b4d2-75a5b165c98f",
+      "actor": "gmail_watcher",
+      "action_type": "email_processed",
+      "target": "email-turn-heads-win-2-5-lakh-in-myntra-vouchers-20260221T121527.md",
+      "result": "success",
+      "parameters": {
+        "message_id": "198db3eb5aab473b",
+        "subject": "Turn heads & win ₹2.5 Lakh in Myntra vouchers!",
+        "priority": "low",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:17:32Z",
+      "correlation_id": "2b7906d9-8e10-4ea2-a547-b2acdb9501c7",
+      "actor": "whatsapp_watcher",
+      "action_type": "whatsapp_processed",
+      "target": "WHATSAPP_talent-connect-by-ali-aftab-sheikh_20260221T121731.md",
+      "result": "success",
+      "parameters": {
+        "chat_name": "Talent Connect by Ali Aftab Sheikh",
+        "message_preview": "*We’re hiring!* Mint Source is looking for a *HR Specialist* to support day-to-day HR and payroll op",
+        "priority": "high",
+        "matched_keyword": "payment",
+        "dry_run": false,
+        "dev_mode": false
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:17:40Z",
+      "correlation_id": "248b8737-a549-4862-9105-89cfb5de6e59",
+      "actor": "watchdog",
+      "action_type": "watcher_stop",
+      "target": "Gmail",
+      "result": "success",
+      "parameters": {
+        "restart_count": 0,
+        "max_restarts": 3,
+        "details": "Graceful shutdown"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:17:44Z",
+      "correlation_id": "26299a28-3bd6-4f2b-b8df-9fbe63d80714",
+      "actor": "watchdog",
+      "action_type": "watcher_crash",
+      "target": "WhatsApp",
+      "result": "failure",
+      "parameters": {
+        "restart_count": 1,
+        "max_restarts": 3,
+        "details": "BrowserContext.close: Connection closed while reading from the driver"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:17:44Z",
+      "correlation_id": "1f694110-cf39-410d-867e-00c6629066bb",
+      "actor": "watchdog",
+      "action_type": "watcher_restart",
+      "target": "WhatsApp",
+      "result": "success",
+      "parameters": {
+        "restart_count": 1,
+        "max_restarts": 3,
+        "details": "Restart 1/3, backoff 2s"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:17:45Z",
+      "correlation_id": "4c544de4-bd7a-46ce-9a20-a366c32379d8",
+      "actor": "watchdog",
+      "action_type": "watcher_stop",
+      "target": "LinkedIn",
+      "result": "success",
+      "parameters": {
+        "restart_count": 0,
+        "max_restarts": 3,
+        "details": "Graceful shutdown"
+      }
+    },
+    {
+      "timestamp": "2026-02-21T12:17:45Z",
+      "correlation_id": "b14a21a8-dd2e-4d5f-a11f-b098f5744e9f",
+      "actor": "orchestrator",
+      "action_type": "orchestrator_stop",
+      "target": "orchestrator",
+      "result": "success",
+      "parameters": {
+        "details": "Graceful shutdown",
+        "dev_mode": false
+      }
+    }
+  ]
+}

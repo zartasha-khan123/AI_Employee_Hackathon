@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "_comment": "Google Calendar watcher configuration. Monitors upcoming events requiring preparation.",
+
+  "poll_interval_seconds": 300,
+  "lookahead_hours": 48,
+  "preparation_threshold_hours": 2,
+
+  "priority_keywords": {
+    "high": ["urgent", "board", "executive", "client", "demo", "pitch", "critical"],
+    "medium": ["review", "sync", "planning", "1:1", "standup", "retrospective"]
+  },
+
+  "exclude_event_types": [
+    "focus time",
+    "lunch",
+    "break",
+    "personal",
+    "out of office",
+    "ooo"
+  ],
+
+  "vip_domains": [
+    "client.com",
+    "partner.com",
+    "board.com"
+  ],
+
+  "processed_ids_retention_days": 7
+}

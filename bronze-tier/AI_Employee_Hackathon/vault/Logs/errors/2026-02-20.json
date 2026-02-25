@@ -1,0 +1,70 @@
+{
+  "date": "2026-02-20",
+  "entries": [
+    {
+      "timestamp": "2026-02-20T01:16:02Z",
+      "correlation_id": "ccf3b6ea-2ad3-4b0e-a741-12eb4f8a2099",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-20T01:16:02Z",
+      "correlation_id": "3eb3aa20-491b-439c-ac99-d41bc109515d",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 149,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-20T01:16:20Z",
+      "correlation_id": "36036fce-cd26-4139-8636-89c4b0a48b1f",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 148,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-20T01:21:03Z",
+      "correlation_id": "32ee9bf3-a95a-4170-89d9-272c75ba6f74",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 150,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-20T01:21:20Z",
+      "correlation_id": "c08a2c23-10b9-4f91-8c65-377e7f619341",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 149,
+        "dev_mode": true
+      },
+      "result": "failure"
+    }
+  ]
+}

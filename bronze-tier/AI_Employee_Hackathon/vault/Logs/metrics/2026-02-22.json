@@ -1,0 +1,25 @@
+{
+  "date": "2026-02-22",
+  "entries": [
+    {
+      "timestamp": "2026-02-22T17:10:16Z",
+      "cpu_percent": 0.0,
+      "memory_mb": 54.25
+    },
+    {
+      "timestamp": "2026-02-22T17:20:42Z",
+      "cpu_percent": 0.0,
+      "memory_mb": 54.78
+    },
+    {
+      "timestamp": "2026-02-22T17:30:25Z",
+      "cpu_percent": 0.0,
+      "memory_mb": 55.86
+    },
+    {
+      "timestamp": "2026-02-22T17:40:26Z",
+      "cpu_percent": 0.0,
+      "memory_mb": 57.67
+    }
+  ]
+}

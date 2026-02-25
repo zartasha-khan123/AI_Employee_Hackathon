@@ -1,0 +1,18 @@
+{
+  "date": "2026-02-21",
+  "entries": [
+    {
+      "timestamp": "2026-02-21T12:12:15Z",
+      "correlation_id": "8104fac3-4d99-4d81-aa06-397cde630410",
+      "actor": "linkedin_watcher",
+      "action_type": "error",
+      "target": "linkedin",
+      "error": "scan_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": false
+      },
+      "result": "failure"
+    }
+  ]
+}

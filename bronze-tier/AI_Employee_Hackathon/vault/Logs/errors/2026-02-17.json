@@ -1,0 +1,655 @@
+{
+  "date": "2026-02-17",
+  "entries": [
+    {
+      "timestamp": "2026-02-17T05:05:51Z",
+      "correlation_id": "293162e1-54b9-41f3-85dc-3da864760adc",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 95,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T05:06:04Z",
+      "correlation_id": "3343e46f-bd2a-496f-b987-2ae003d663df",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 95,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T05:11:00Z",
+      "correlation_id": "c86f8672-ab00-4cb5-8e26-24561e4f0e38",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 96,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T05:11:05Z",
+      "correlation_id": "9977cc9a-cad6-4a56-9fd7-4e09f9449004",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 96,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T05:16:03Z",
+      "correlation_id": "e3035e52-8088-42f2-b749-93fe7ca25569",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 97,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T05:16:08Z",
+      "correlation_id": "b6ac7e51-72bf-4e3d-990a-4425da14519a",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 97,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T20:58:15Z",
+      "correlation_id": "9d263a77-ab9b-4ff1-8280-e629edbcbc90",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T20:58:15Z",
+      "correlation_id": "e37e35f0-2e73-4cf9-b926-e3fd34a0cc7c",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 98,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T20:58:38Z",
+      "correlation_id": "59c6f764-2ce9-4584-beb2-52c9078502de",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T20:58:39Z",
+      "correlation_id": "66e63b49-0698-481e-b447-ab223d2e7160",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 98,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:03:27Z",
+      "correlation_id": "4e7dd0f0-04d4-43b3-aad5-8ef2b6b8c3a0",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 99,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:03:40Z",
+      "correlation_id": "6ac6285b-a7f1-42a9-ba81-ef8723296e9e",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 99,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:08:31Z",
+      "correlation_id": "f34d3556-3da3-4e46-91cd-7bfc7b7bb18c",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 100,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:08:46Z",
+      "correlation_id": "535a9110-da8a-404b-86d4-421eeec161a3",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 100,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:13:34Z",
+      "correlation_id": "b4930ffe-d1f0-4a12-87c2-26e8bcd79018",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 101,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:13:49Z",
+      "correlation_id": "2d2091b9-7c11-4be6-b2df-2944d567dd03",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 101,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:16:43Z",
+      "correlation_id": "03c997fa-7e1c-41e6-9ea0-71736b9de74d",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:17:06Z",
+      "correlation_id": "34256f68-24ce-4634-a3b1-a7c789ca33b4",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:18:43Z",
+      "correlation_id": "7afa22a9-ae87-4d5a-9ac6-03e08c1b311d",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 2,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:18:54Z",
+      "correlation_id": "0699d04b-687f-4887-baec-d7847d0fc55d",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 102,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:19:06Z",
+      "correlation_id": "031c9fde-0a6d-4b80-b31d-3162af1799e4",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 2,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:19:09Z",
+      "correlation_id": "2642ad21-1cbf-4325-8da1-05e7b1ba5d0a",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 102,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:20:43Z",
+      "correlation_id": "fb9f3f19-c1e4-4e03-9951-8c8b92be15b6",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 3,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:21:06Z",
+      "correlation_id": "2687f045-4536-47c7-9085-545fb2a556b3",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 3,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:22:43Z",
+      "correlation_id": "fdccb717-9903-46e9-b5d4-0e4d38372a78",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 4,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:23:06Z",
+      "correlation_id": "747dfbfd-97c9-4b0b-8f1b-919d4e2f0a94",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 4,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:23:55Z",
+      "correlation_id": "04c58021-84e5-442c-b3d0-732ab6bb24f2",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 103,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:24:11Z",
+      "correlation_id": "431a55ef-be20-4091-84eb-f77fc46b2103",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 103,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:28:58Z",
+      "correlation_id": "1be9aa1a-d8bd-43a0-8192-d687c0ed2885",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 104,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:29:15Z",
+      "correlation_id": "2e3bba05-8b02-41c2-94c4-880890e89719",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 104,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:34:02Z",
+      "correlation_id": "dffd3194-e6ce-41d6-be72-a8fa0d664b44",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 105,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:34:18Z",
+      "correlation_id": "9ccfa9be-d685-47e9-9df1-c190ec33fced",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 105,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:39:06Z",
+      "correlation_id": "d79610aa-3523-47d6-a879-0a1bf18b61c6",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 106,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:39:22Z",
+      "correlation_id": "4825ef4b-60e9-472e-9b2a-310dc3c9a2e2",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 106,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:44:09Z",
+      "correlation_id": "52a1acef-e6d4-4984-b4d2-c8451016e893",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 107,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:44:25Z",
+      "correlation_id": "24f2e653-b520-40f3-b686-75a23cec9f59",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 107,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:49:13Z",
+      "correlation_id": "a2b4ac60-8def-4736-a01b-80ef10227811",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 108,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:49:29Z",
+      "correlation_id": "5bac2446-e445-4a27-a7b5-daf3fed9e186",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 108,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:54:16Z",
+      "correlation_id": "23868291-ed3f-47a3-b40f-74d831dda126",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 109,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:54:32Z",
+      "correlation_id": "0e6f6fc0-e320-4a34-83d3-1d3cb0d51ebf",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 109,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:59:20Z",
+      "correlation_id": "57f0814f-eb58-4ffb-9716-4dc4ecdc0e8e",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 110,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T21:59:40Z",
+      "correlation_id": "db471504-c0f3-40cb-a8e1-8d7ca1de5505",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 110,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T22:04:28Z",
+      "correlation_id": "4f66c223-66e6-44f8-9d0c-7894c3d73d7a",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 111,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T22:04:42Z",
+      "correlation_id": "2c9fc7a4-358f-4497-bfb3-7b71990206d8",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 111,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T22:09:29Z",
+      "correlation_id": "aac09cf6-3fde-4045-8416-7cf871bef8de",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 112,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T22:09:45Z",
+      "correlation_id": "10697642-7ef1-40f8-aa0f-410d2c8604f2",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 112,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T22:14:33Z",
+      "correlation_id": "9de3f6cd-9331-456e-b045-92fbbd23065d",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 113,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T22:14:49Z",
+      "correlation_id": "e58f16ee-032a-451d-a453-84e1c825b2d0",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 113,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T22:19:37Z",
+      "correlation_id": "21bd4cf8-d17e-453d-bf2f-3132159d1c02",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 114,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-17T22:19:52Z",
+      "correlation_id": "8db80695-bfdc-4831-ac3f-e9adf0127c5c",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 114,
+        "dev_mode": true
+      },
+      "result": "failure"
+    }
+  ]
+}

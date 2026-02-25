@@ -1,0 +1,26 @@
+{
+  "date": "2026-02-22",
+  "entries": [
+    {
+      "timestamp": "2026-02-22T17:07:15Z",
+      "alert_type": "cpu_high",
+      "message": "CPU usage high: 167.5%",
+      "value": 167.5,
+      "severity": "warning"
+    },
+    {
+      "timestamp": "2026-02-22T17:19:42Z",
+      "alert_type": "cpu_high",
+      "message": "CPU usage high: 140.3%",
+      "value": 140.3,
+      "severity": "warning"
+    },
+    {
+      "timestamp": "2026-02-22T17:24:24Z",
+      "alert_type": "cpu_high",
+      "message": "CPU usage high: 186.4%",
+      "value": 186.4,
+      "severity": "warning"
+    }
+  ]
+}

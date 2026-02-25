@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "256e116fe1688ead",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9164bb3686aa213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92a52790ef09e20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63da4d4436071f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "899be072efd840c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9734928d8a62cde0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ab420eca8770475",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad734a95e34ebf97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61e0ef5986f9509f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b512ac9597eb5858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47947a0794ea105b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Needs_Action/email-hiiiii-20260209T214012.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for email-hiiiii-20260209T214012"
+            }
+          },
+          {
+            "id": "2e3e21747ceb1111",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Needs_Action/email-hiiiii-20260209T214012.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from email-hiiiii-20260209T214012"
+            }
+          },
+          {
+            "id": "12ba483db68a5457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e679aec44adb4659",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "96f62558e5ae674d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Needs_Action/email-hiiiii-20260209T214012.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of email-hiiiii-20260209T214012"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "92a52790ef09e20f",
+  "lastOpenFiles": [
+    "Pending_Approval/plan-linkedin-post-demo-20260225.md",
+    "Plans/plan-linkedin-post-demo-20260225.md",
+    "Pending_Approval/plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+    "Plans/plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260225.md",
+    "Pending_Approval/plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+    "Plans/plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260225.md",
+    "Pending_Approval/plan-testmd-20260225.md",
+    "Pending_Approval/plan-test-demo-20260225.md",
+    "Pending_Approval/plan-task-test-vault-manager-20250204T170000-20260225.md",
+    "Pending_Approval/plan-linkedin-exciting-news-we-ve-just-completed-the-implemen-20260214T224124-20260225.md",
+    "Logs/decisions/2026-02-25.json",
+    "Logs/workflow/2026-02-25.json",
+    "Logs/actions/2026-02-25.json",
+    "Logs/errors/2026-02-25.json",
+    "Logs/errors/2026-02-23.json",
+    "Needs_Action/testmd.md",
+    "Plans/plan-test-demo-20260222.md",
+    "Plans/plan-linkedin-post-demo-20260222.md",
+    "Plans/plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260222.md",
+    "Plans/plan-task-test-vault-manager-20250204T170000-20260222.md",
+    "Pending_Approval/plan-linkedin-post-demo-20260222.md",
+    "Plans/plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260222.md",
+    "Needs_Action/linkedin-post-demo.md",
+    "Pending_Approval/plan-test-demo-20260222.md",
+    "Needs_Action/test-demo.md",
+    "Logs/metrics/2026-02-22.json",
+    "Logs/metrics",
+    "Logs/alerts/2026-02-22.json",
+    "Logs/alerts",
+    "Pending_Approval/plan-task-test-vault-manager-20250204T170000-20260222.md",
+    "Pending_Approval/plan-linkedin-exciting-news-we-ve-just-completed-the-implemen-20260214T224124-20260222.md",
+    "Pending_Approval/plan-linkedin-exciting-news-we-ve-just-completed-an-important-i-20260215T001434-20260222.md",
+    "Logs/decisions/2026-02-22.json",
+    "Pending_Approval/plan-email-a-shipment-from-order-lsd22726-is-on-the-way-20260214T005846-20260222.md",
+    "Briefings/ceo-briefing-gold-tier-complete-2026-02-22.md",
+    "Content_Calendar.md"
+  ]
+}

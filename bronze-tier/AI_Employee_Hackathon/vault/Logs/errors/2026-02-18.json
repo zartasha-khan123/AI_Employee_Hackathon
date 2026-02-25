@@ -1,0 +1,148 @@
+{
+  "date": "2026-02-18",
+  "entries": [
+    {
+      "timestamp": "2026-02-18T01:23:37Z",
+      "correlation_id": "4eee0dd7-92df-458f-a857-7fd07ad021f4",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T01:23:37Z",
+      "correlation_id": "5732be83-0e1c-4dcd-bcfa-90918d8060bc",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 115,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T10:37:34Z",
+      "correlation_id": "29e96b9a-2f2f-46fe-b772-11d5ce536ca3",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 115,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T10:37:35Z",
+      "correlation_id": "d5af7dc0-6f2b-4619-9ea5-b8add8cf8dae",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T10:37:44Z",
+      "correlation_id": "c491270e-9adc-4fc9-bd67-928d6011f3c9",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 116,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T10:42:35Z",
+      "correlation_id": "bb01d9d0-d1cd-4b8b-a50c-e3c015f4579a",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 116,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T10:42:48Z",
+      "correlation_id": "927fca4d-6458-4e2f-9933-e5a2790cf9d3",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 117,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T10:47:36Z",
+      "correlation_id": "f2709b46-0df9-442e-9e17-9ead1bd15acc",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 117,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T10:47:51Z",
+      "correlation_id": "6e833166-d04d-47ef-8534-321b626cda95",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 118,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T10:52:40Z",
+      "correlation_id": "e2825e7c-6822-4676-a257-47eebbb5be68",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 118,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-18T10:52:55Z",
+      "correlation_id": "cfdbca09-5963-4797-b3d5-fc1a479191db",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 119,
+        "dev_mode": true
+      },
+      "result": "failure"
+    }
+  ]
+}

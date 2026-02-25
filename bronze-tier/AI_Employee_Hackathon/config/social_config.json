@@ -1,0 +1,34 @@
+{
+  "platforms": {
+    "linkedin": {
+      "enabled": true,
+      "rate_limit_per_day": 5,
+      "character_limit": 3000,
+      "session_path": "config/linkedin_session"
+    },
+    "twitter": {
+      "enabled": false,
+      "rate_limit_per_day": 5,
+      "character_limit": 280,
+      "api_key": "",
+      "api_secret": ""
+    }
+  },
+  "safety": {
+    "scan_for_sensitive_data": true,
+    "prohibited_keywords": [
+      "confidential",
+      "internal only",
+      "do not share",
+      "private",
+      "secret"
+    ],
+    "require_approval": true
+  },
+  "content_calendar": {
+    "enabled": true,
+    "file_path": "vault/Content_Calendar.md",
+    "check_interval_minutes": 10,
+    "lookahead_hours": 1
+  }
+}

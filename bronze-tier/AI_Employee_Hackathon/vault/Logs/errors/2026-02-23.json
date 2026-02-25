@@ -1,0 +1,57 @@
+{
+  "date": "2026-02-23",
+  "entries": [
+    {
+      "timestamp": "2026-02-23T10:00:39Z",
+      "correlation_id": "f9ae3537-80df-4c53-88ef-f763dbb9da9a",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 217,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-23T10:00:41Z",
+      "correlation_id": "a779cdce-7819-4468-8db3-6642820a5cb8",
+      "actor": "calendar_watcher",
+      "action_type": "error",
+      "target": "calendar_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 216,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-23T10:00:44Z",
+      "correlation_id": "9248ae53-677e-414a-8952-4785c63b5cec",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-23T10:00:47Z",
+      "correlation_id": "e6450489-e2f1-4a3b-92d4-c0c23044ae94",
+      "actor": "gmail_watcher",
+      "action_type": "error",
+      "target": "gmail_api",
+      "error": "fetch_failed",
+      "details": {
+        "consecutive_errors": 1,
+        "dev_mode": true
+      },
+      "result": "failure"
+    }
+  ]
+}

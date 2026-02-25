@@ -1,0 +1,83 @@
+{
+  "date": "2026-02-16",
+  "entries": [
+    {
+      "timestamp": "2026-02-16T17:13:28Z",
+      "correlation_id": "af4dd9f0-2530-423d-967a-e3f375dbb58e",
+      "actor": "linkedin_watcher",
+      "action_type": "error",
+      "target": "linkedin",
+      "error": "session_login_required",
+      "details": {
+        "consecutive_errors": 0,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-16T17:13:40Z",
+      "correlation_id": "12cc71a4-d4ed-49e0-9ae7-dfae3df57cae",
+      "actor": "linkedin_watcher",
+      "action_type": "error",
+      "target": "linkedin",
+      "error": "session_login_required",
+      "details": {
+        "consecutive_errors": 0,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-16T17:14:11Z",
+      "correlation_id": "c12cdf1c-f0b6-4232-a7fb-441a78d765ea",
+      "actor": "linkedin_watcher",
+      "action_type": "error",
+      "target": "linkedin",
+      "error": "session_login_required",
+      "details": {
+        "consecutive_errors": 0,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-16T17:14:23Z",
+      "correlation_id": "48d7705c-a714-4177-8f54-f255e3c217dd",
+      "actor": "linkedin_watcher",
+      "action_type": "error",
+      "target": "linkedin",
+      "error": "session_login_required",
+      "details": {
+        "consecutive_errors": 0,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-16T17:16:09Z",
+      "correlation_id": "bee93a61-71bd-43ee-9ca0-8580317337a4",
+      "actor": "linkedin_watcher",
+      "action_type": "error",
+      "target": "linkedin",
+      "error": "session_login_required",
+      "details": {
+        "consecutive_errors": 0,
+        "dev_mode": true
+      },
+      "result": "failure"
+    },
+    {
+      "timestamp": "2026-02-16T17:16:21Z",
+      "correlation_id": "8a422714-b872-4123-b443-23e68c280b2a",
+      "actor": "linkedin_watcher",
+      "action_type": "error",
+      "target": "linkedin",
+      "error": "session_login_required",
+      "details": {
+        "consecutive_errors": 0,
+        "dev_mode": true
+      },
+      "result": "failure"
+    }
+  ]
+}

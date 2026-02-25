@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "_comment": "WhatsApp watcher configuration. Monitors WhatsApp Web for messages.",
+
+  "poll_interval_seconds": 60,
+  "session_path": "config/whatsapp_session",
+  "headless": true,
+
+  "priority_keywords": {
+    "high": ["urgent", "asap", "emergency", "important", "help"],
+    "medium": ["question", "need", "when", "how", "please"]
+  },
+
+  "exclude_contacts": [
+    "Spam",
+    "Unknown",
+    "WhatsApp"
+  ],
+
+  "exclude_groups": true,
+  "max_message_length": 5000,
+  "mark_as_read": false,
+
+  "rate_limits": {
+    "messages_per_hour": 50,
+    "responses_per_day": 20
+  },
+
+  "browser_config": {
+    "timeout_ms": 30000,
+    "wait_for_selector_timeout": 10000,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  }
+}

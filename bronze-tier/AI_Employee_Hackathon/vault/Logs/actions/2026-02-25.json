@@ -1,0 +1,3680 @@
+{
+  "date": "2026-02-25",
+  "entries": [
+    {
+      "timestamp": "2026-02-25T10:48:33Z",
+      "correlation_id": "d54bf98d-9672-4d03-ac2b-0e17af4d95a8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T104833.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:48:37Z",
+      "correlation_id": "1267a166-c11a-464d-be99-fd2197e7bf7a",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T104837.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:50:33Z",
+      "correlation_id": "bb37f70a-ca66-4117-9def-f8418f6219e8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105033.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:50:38Z",
+      "correlation_id": "2f0b9241-bbb6-4a4a-b574-700d4a35a57f",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105038.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:52:34Z",
+      "correlation_id": "01bd40ae-a3bc-4826-9e6e-be0c061d2dbf",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105234.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:52:39Z",
+      "correlation_id": "309154d8-814b-403e-a187-c75d3e5e6251",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105239.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:54:35Z",
+      "correlation_id": "b536acd1-67ad-4ceb-add2-b73bbb145ac0",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105435.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:54:39Z",
+      "correlation_id": "159b69b3-52ef-4d98-981e-5acc090d8ac1",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105439.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:56:36Z",
+      "correlation_id": "d06a29e0-e28a-478e-a8ee-68ad1e382da8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105636.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:56:40Z",
+      "correlation_id": "f1404415-8e64-4a5d-98a4-585f49ae330d",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105640.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:58:36Z",
+      "correlation_id": "9e93bf52-678f-4e4f-8a6a-68dcebf78e35",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105836.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T10:58:41Z",
+      "correlation_id": "f79361df-4507-40a7-8b31-277e773fe375",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T105841.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:00:37Z",
+      "correlation_id": "0bc9bcb6-48f8-447e-989e-f4f403229518",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110037.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:00:41Z",
+      "correlation_id": "5908fdfc-3bae-4762-851c-1aae5d89da26",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110041.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:02:38Z",
+      "correlation_id": "2423d21f-6e82-4bbe-9f3f-c8b10a13b61f",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110238.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:02:42Z",
+      "correlation_id": "7603a5d3-b5f2-4e8c-82fb-781069cf2f7f",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110242.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:04:39Z",
+      "correlation_id": "13eef0be-9a76-478d-b7f6-8ffe54560c88",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110439.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:04:43Z",
+      "correlation_id": "727af9cc-9bb8-4864-aaee-381d3ada19e1",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110443.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:06:39Z",
+      "correlation_id": "b1d7579a-90bd-48a1-911b-10e63882bcc8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110639.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:06:44Z",
+      "correlation_id": "0fb543f5-50ee-40c8-ad89-9d963483107e",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110644.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:08:40Z",
+      "correlation_id": "6cd1282f-43c9-4fa4-922b-9cb0b85aabee",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110840.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:08:45Z",
+      "correlation_id": "71c0fc21-4265-4f88-9aed-c62328e0fdd4",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T110845.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:10:41Z",
+      "correlation_id": "340b72a2-8034-4d9b-9f93-9b3c78f3e137",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111041.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:10:45Z",
+      "correlation_id": "55d4d60d-8716-46ac-958c-a3a3b7f00383",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111045.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:12:42Z",
+      "correlation_id": "6b4dd837-16ba-4b15-aca4-209a42b6aded",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111242.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:12:46Z",
+      "correlation_id": "e7aff55e-9ad0-4925-bdc6-ac060ac77149",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111246.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:14:42Z",
+      "correlation_id": "046b7c8e-6bd8-4933-9092-7ed2c0eca4eb",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111442.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:14:47Z",
+      "correlation_id": "e54d2e50-cae3-4a61-9247-77c561f842a3",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111447.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:16:43Z",
+      "correlation_id": "f04f4885-54db-422f-ad61-bc7aa66a36c6",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111643.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:16:48Z",
+      "correlation_id": "886d5fbe-f618-41b7-9e90-74e563ae4348",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111648.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:18:44Z",
+      "correlation_id": "0ba8721a-7720-4a58-ac3e-e91f5b6740db",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111844.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:18:49Z",
+      "correlation_id": "70f9275e-891d-43a0-9087-955686103c21",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T111849.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:20:45Z",
+      "correlation_id": "4579a408-1308-4f04-a20b-285d7714e99d",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112045.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:20:50Z",
+      "correlation_id": "186b7ad3-13e9-4336-ac6a-a2c776fb5868",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112050.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:22:45Z",
+      "correlation_id": "36166594-8670-46ce-bd6f-098eefe1d2f7",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112245.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:22:50Z",
+      "correlation_id": "c38ebb57-4a42-4d2f-bb17-2368443a5cba",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112250.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:24:46Z",
+      "correlation_id": "43bcb3a4-9f6a-44b6-9f78-5551ab63c4dc",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112446.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:24:51Z",
+      "correlation_id": "833cf330-1a0f-4388-8e51-614294098178",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112451.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:26:50Z",
+      "correlation_id": "201ede33-bdf2-4c04-a2ee-3d8d14ff5b39",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112650.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:26:55Z",
+      "correlation_id": "ede1ab5c-eac8-4598-abe8-e9a76974f75f",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112655.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:28:51Z",
+      "correlation_id": "5128d90e-8cf2-4b63-a48b-a6779acfb492",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112851.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:28:56Z",
+      "correlation_id": "9dade04d-496c-4e6f-9003-ede4f332d892",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T112856.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:30:51Z",
+      "correlation_id": "0d553ccd-982c-4b2f-b1a3-473b284dd5d5",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113051.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:30:56Z",
+      "correlation_id": "5927fa7a-0ddc-4718-819e-467065d78831",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113056.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:32:52Z",
+      "correlation_id": "afd59a88-0272-4b34-b586-7d0dfa143049",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113252.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:32:57Z",
+      "correlation_id": "b0f6bf62-1480-4f79-96aa-7a6e169870a2",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113257.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:34:53Z",
+      "correlation_id": "4b337733-ef20-4d25-875f-e33a3943ad61",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113453.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:34:57Z",
+      "correlation_id": "a0a3b4c6-1af2-4f5c-8c4c-2c0790dded3d",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113457.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:36:53Z",
+      "correlation_id": "5df3b38e-0642-42b6-8884-7fc8c5f99e17",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113653.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:36:58Z",
+      "correlation_id": "bfc125cb-3b71-47f0-b492-394d9e8c2f64",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113658.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:38:54Z",
+      "correlation_id": "d5c7efe1-516a-48b9-87ff-08117bc6601b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113854.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:38:59Z",
+      "correlation_id": "53d659ec-5a9b-4247-85cf-736909a12134",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T113859.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:40:55Z",
+      "correlation_id": "ea543d69-f45c-467b-846a-c33325f6c3e7",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114055.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:40:59Z",
+      "correlation_id": "8d65e026-a97f-480d-9802-fa42034d6893",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114059.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:42:55Z",
+      "correlation_id": "db066a10-c416-41a6-8de7-37d65937b40c",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114255.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:43:00Z",
+      "correlation_id": "57ac435f-b68a-4f7f-9412-b64cfacea327",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114300.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:44:59Z",
+      "correlation_id": "ec9500a9-940b-4887-9583-f423ac55c68f",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114459.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:45:04Z",
+      "correlation_id": "22cd5671-56f9-4a44-9a12-6c97a5017da3",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114504.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:47:00Z",
+      "correlation_id": "72400c37-7909-44f3-89f8-060d0f3e0c76",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114700.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:47:05Z",
+      "correlation_id": "ec560cca-1b16-4cd1-a577-9a74b1d1f178",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114705.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:49:01Z",
+      "correlation_id": "f0b413c8-817e-4c3d-a9db-8f0538202454",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114901.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:49:06Z",
+      "correlation_id": "61b37294-5ba9-400e-8773-a3d7392f5028",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T114906.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:51:02Z",
+      "correlation_id": "250a1412-93dc-4774-bb6d-79f7ec1395f3",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T115102.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T11:51:06Z",
+      "correlation_id": "5c6cf586-3a5b-48f7-a9e5-9070c5b76d08",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T115106.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T17:52:37Z",
+      "correlation_id": "ac0af9ea-f104-41a2-a000-c9a4e34ea410",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T175237.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T17:52:44Z",
+      "correlation_id": "56258900-5ecf-4bb0-9b59-618c4b5ac992",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T175244.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T17:54:38Z",
+      "correlation_id": "2618cc7e-a5af-4da7-98e7-f66a1f5ed5e7",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T175438.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T17:54:45Z",
+      "correlation_id": "e62b8d8c-a77d-4010-bde9-ff16fd180b91",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T175445.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T17:56:38Z",
+      "correlation_id": "3ab4d6f1-0e97-44c3-8fe8-b2cfb0619ac2",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T175638.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T17:56:45Z",
+      "correlation_id": "33445600-95d2-4795-8e7e-5f7aa6041e94",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T175645.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T17:58:39Z",
+      "correlation_id": "ac2d2c18-477f-47bf-8dd7-311f6490f608",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T175839.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T17:58:46Z",
+      "correlation_id": "36ec91ae-8909-4bdf-8175-13bfe518ea92",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T175846.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:00:40Z",
+      "correlation_id": "78a42998-0c2a-4294-b352-ea66e501b3a7",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180040.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:00:47Z",
+      "correlation_id": "4a26969c-8193-4702-adbc-4a54bad912c2",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180047.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:02:41Z",
+      "correlation_id": "b2b7882e-e79a-4459-bd82-ac0272a911c3",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180241.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:02:48Z",
+      "correlation_id": "02c09d3f-9eca-492f-9f9e-202df7836da8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180248.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:04:41Z",
+      "correlation_id": "3d9d8581-ef11-4ff6-9ab2-fe313e36ed0b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180441.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:04:48Z",
+      "correlation_id": "ccc74df7-5de4-48c4-958f-8d849bdeb0df",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180448.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:06:42Z",
+      "correlation_id": "694a02b4-a837-4f17-86c1-049120109df5",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180642.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:06:49Z",
+      "correlation_id": "8f439f93-cd08-4640-84b5-50b86f1136f4",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180649.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:08:43Z",
+      "correlation_id": "3d121de9-7313-4d3a-b1cf-bbb15efb654c",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180843.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:08:50Z",
+      "correlation_id": "46df603e-9365-456a-8a35-5ae520c9ff1b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T180850.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:10:44Z",
+      "correlation_id": "83c6a560-1275-4274-812b-6f3db4f83214",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181044.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:10:51Z",
+      "correlation_id": "c8f7bc24-ce57-4a32-a553-59adc87b8f0f",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181051.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:12:44Z",
+      "correlation_id": "cc498bb5-0220-4016-8a35-bf9525fc6b61",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181244.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:12:52Z",
+      "correlation_id": "af3f4954-0db9-45da-8e43-71ff9b32000e",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181252.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:14:45Z",
+      "correlation_id": "5b646680-5c57-4054-9f06-29f3f0d9180c",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181445.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:14:52Z",
+      "correlation_id": "4c119a05-aea8-4408-b377-199ad2e1bfc6",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181452.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:16:46Z",
+      "correlation_id": "166aacba-924d-4f00-a6fb-d4c2893e3ffb",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181646.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:16:53Z",
+      "correlation_id": "76d4327e-76c9-4b4c-8cf3-731cbb58a4bc",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181653.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:18:46Z",
+      "correlation_id": "5d0c264c-81f1-42b4-8793-4683d5a2f6b3",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181846.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:18:54Z",
+      "correlation_id": "f7a604bb-3929-4509-810f-db8f33396176",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T181854.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:20:47Z",
+      "correlation_id": "4a5a982b-55a9-44c7-b831-4277c39d2a27",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182047.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:20:55Z",
+      "correlation_id": "5ef57f19-25f7-42bf-8602-b46a16434ca8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182055.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:22:49Z",
+      "correlation_id": "ac63ccce-0650-40fa-9251-81340e09816e",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182249.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:22:55Z",
+      "correlation_id": "9eb7676a-ef6c-4f81-946f-0fadba7cc20b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182255.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:24:50Z",
+      "correlation_id": "310a09df-8f1b-4d44-90aa-88316d42fab9",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182450.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:24:56Z",
+      "correlation_id": "a143b90c-29f7-46b7-a719-db96e1f7b297",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182456.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:26:50Z",
+      "correlation_id": "eaf76db8-a2a9-4b38-ba63-3cd5e3832a82",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182650.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:26:57Z",
+      "correlation_id": "00e7ae58-3ea6-4f5f-a13e-f1040731bc5c",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182657.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:28:51Z",
+      "correlation_id": "eeff89dd-d414-4b0b-98ab-dd9b45e8af17",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182851.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:28:58Z",
+      "correlation_id": "5b710ece-b5c0-4913-8305-a1591fe0e213",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T182858.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:30:52Z",
+      "correlation_id": "ca226ac0-24df-459e-b49b-f7990061fae4",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183052.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:30:59Z",
+      "correlation_id": "2f951dc0-8ea4-4b98-9e0c-67406aec46ed",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183059.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:32:53Z",
+      "correlation_id": "39e1154c-8ab9-423f-8ebb-61e1b70dc4a4",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183253.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:32:59Z",
+      "correlation_id": "15e35817-8ba6-42a2-ae66-2f8c414e3624",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183259.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:34:54Z",
+      "correlation_id": "eddb9c7c-fae7-4ff8-ae2f-dd444ba94deb",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183454.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:35:00Z",
+      "correlation_id": "7e7f707f-c1e7-42f7-a8a0-83568ae2b1aa",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183500.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:36:55Z",
+      "correlation_id": "b860a21a-10a8-48ba-9426-5dc8ef746195",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183655.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:37:01Z",
+      "correlation_id": "ae7c3093-254f-4664-95eb-db9437910c5f",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183701.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:38:56Z",
+      "correlation_id": "e9e21c5f-9426-421d-8415-1bc010f88346",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183856.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:39:02Z",
+      "correlation_id": "b368b1f8-78a7-44a1-84d8-1af37eef27b9",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T183902.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:40:57Z",
+      "correlation_id": "61e75671-aa0a-4c23-a6af-2f6c21790029",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184057.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:41:03Z",
+      "correlation_id": "0dc2d743-1ae5-4f2b-b78a-eb7be3e7dcdc",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184103.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:42:58Z",
+      "correlation_id": "2bfedcbb-280f-418d-802d-3dd88a6f4974",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184258.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:43:06Z",
+      "correlation_id": "76dbaae7-20d0-4742-b43b-04298ab129b5",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184306.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:44:59Z",
+      "correlation_id": "f4e83f6e-dede-4714-905a-70c618149b23",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184459.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:45:09Z",
+      "correlation_id": "0d5b1931-f323-46e0-ba33-ab2d48bb68a8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184509.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:47:04Z",
+      "correlation_id": "b2a184e9-e9e7-4adc-85ca-43efbc1c09a8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184704.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:47:14Z",
+      "correlation_id": "44547634-c161-4d00-b457-611974c7b544",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184714.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:49:04Z",
+      "correlation_id": "bc7eff83-94a4-48f4-adae-561ba4c2d9ba",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184904.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:49:14Z",
+      "correlation_id": "7ebdcf8f-4414-4f18-9af2-f7e57ef069ec",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T184914.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:51:05Z",
+      "correlation_id": "b453f892-cfae-4ddb-95ef-accdd68ac985",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185105.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:51:15Z",
+      "correlation_id": "dfc53dd5-05ef-45f2-b7b6-bda350fb0421",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185115.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:53:06Z",
+      "correlation_id": "e53930fd-10d8-4c0a-8178-25a2f273a017",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185306.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:53:16Z",
+      "correlation_id": "145fbeee-ef8d-4cec-9f60-f3d4250e0aa6",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185316.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:55:07Z",
+      "correlation_id": "58304092-a866-4076-9f42-8bf0707880b2",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185507.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:55:17Z",
+      "correlation_id": "6a24ed16-5a7e-4d1a-979b-11f547489fbb",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185517.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:57:08Z",
+      "correlation_id": "04377ca9-3473-4124-b81d-56ee2e041e81",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185708.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:57:17Z",
+      "correlation_id": "f852cb48-0818-49ad-84fc-5e10141e95f7",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185717.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:59:08Z",
+      "correlation_id": "6341239c-3ba7-461f-af0c-641b30eba06b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185908.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T18:59:18Z",
+      "correlation_id": "2c0406f6-a849-487a-a405-2ac34c447fab",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T185918.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:05:32Z",
+      "correlation_id": "88ade0de-400b-4f50-b7a9-18d4c6cc8a96",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T190532.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:05:40Z",
+      "correlation_id": "b8c94c90-86a0-4076-a3b3-9c838a59f4a1",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T190540.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:07:33Z",
+      "correlation_id": "5264fb45-c4be-4a71-9da4-d04f3b7d9f78",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T190733.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:07:41Z",
+      "correlation_id": "2d97aff4-65f9-4749-90e5-c097f724d101",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T190740.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:09:34Z",
+      "correlation_id": "db54fdf8-a5c1-4cd6-b849-9136e71f210d",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T190934.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:09:43Z",
+      "correlation_id": "8dad463d-5e5f-404a-952b-18e781038944",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T190943.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:11:35Z",
+      "correlation_id": "8f260ebd-e7e3-4d58-9e21-d231529e43f2",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191135.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:11:43Z",
+      "correlation_id": "038e4831-2809-4e58-a1ee-bb5113158d98",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191143.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:13:35Z",
+      "correlation_id": "d383cf39-d171-4929-9f8d-0c1e94419383",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191335.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:13:44Z",
+      "correlation_id": "c0826655-b6e2-45d3-acad-57cedd0b083f",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191344.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:15:36Z",
+      "correlation_id": "d3e045ca-9047-42b5-a93e-4966592148db",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191536.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:15:45Z",
+      "correlation_id": "749ff6a9-3894-44d1-b9b9-83016c25bbc1",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191545.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:17:38Z",
+      "correlation_id": "3348f194-d919-4820-bf83-acb34763c517",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191738.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:17:46Z",
+      "correlation_id": "6d3316e4-dd68-4815-a42b-1691e2e4e263",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191746.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:19:38Z",
+      "correlation_id": "3da66c47-339f-4832-9f6e-f3266d5b56aa",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191938.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:19:47Z",
+      "correlation_id": "34760105-fc36-441a-91e3-8a63372bdffc",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T191947.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:21:39Z",
+      "correlation_id": "c8c79213-2842-4a09-8dd5-7710a1fcb8a1",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T192139.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T19:21:48Z",
+      "correlation_id": "e58ddfbe-eae2-474a-b01a-3cb05cf26477",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T192148.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:15:35Z",
+      "correlation_id": "f2abe7bc-e774-44b5-b824-021956373dd8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T201535.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:15:43Z",
+      "correlation_id": "f9d4b072-ce8d-4f4d-ba14-2c3807eb978e",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T201543.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:17:36Z",
+      "correlation_id": "973ca34b-975e-4d9e-812d-6c394289d1c9",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T201736.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:17:43Z",
+      "correlation_id": "50f72cca-fe1d-48e4-9024-07edd4ebb8c9",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T201743.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:19:37Z",
+      "correlation_id": "f9083f4b-c1bb-42e2-8068-c777cba0211b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T201937.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:19:44Z",
+      "correlation_id": "0076f731-afb6-4cdd-961d-8d51d0e905f3",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T201944.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:21:38Z",
+      "correlation_id": "1fef7e5e-51b1-472d-9c04-fee3d757c2d1",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202138.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:21:45Z",
+      "correlation_id": "2b6534d2-8ec0-4363-b4c4-5c577306ea6a",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202145.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:23:39Z",
+      "correlation_id": "b5c80c71-9751-4d88-9c8e-b730bcad660e",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202339.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:23:50Z",
+      "correlation_id": "daeaf19b-05dc-4920-8cbe-d834347f0634",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202350.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:25:44Z",
+      "correlation_id": "cb0b73d4-a881-4d3e-a1e2-cd521931ae32",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202544.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:25:51Z",
+      "correlation_id": "2695cabc-83dd-4e61-b2fe-2b63bf15c865",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202551.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:27:49Z",
+      "correlation_id": "693dff18-3ba1-456b-aecb-9d4c4747474d",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202749.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:27:52Z",
+      "correlation_id": "8479cfa4-d79e-4bdc-9885-e5bf017d8720",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202752.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:29:54Z",
+      "correlation_id": "8fb41866-a50d-4ea4-a716-62d881eac613",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202954.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:29:57Z",
+      "correlation_id": "055ac3bd-8ee0-4e81-ab29-d8483c3ebbcb",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T202957.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:31:59Z",
+      "correlation_id": "54de9308-566c-451d-8942-199a29324191",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T203159.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:32:01Z",
+      "correlation_id": "26240b62-bc27-48fb-9f30-82334c330164",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T203201.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:34:07Z",
+      "correlation_id": "a5144628-7008-4be7-8b7f-a878e14a786b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T203407.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:34:08Z",
+      "correlation_id": "e81067c2-64b8-4824-8381-d602463df84c",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T203408.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:36:13Z",
+      "correlation_id": "0ebffe82-7db5-4e5c-b2b6-c04d7be88f1b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T203613.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:36:13Z",
+      "correlation_id": "0ed11595-ecf2-489a-924b-313ac09c0042",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T203613.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:38:16Z",
+      "correlation_id": "0e7724c8-513d-4b9a-aa8a-b0d8207836e6",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T203816.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:38:38Z",
+      "correlation_id": "0093f059-b1b3-43ed-bbab-fc2b364623d3",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T203838.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:40:17Z",
+      "correlation_id": "e3d9a6a7-59e5-43ed-b57b-07aa3114dc10",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204017.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:40:38Z",
+      "correlation_id": "4b7858f7-5d9e-4631-81ba-74af92aac48c",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204038.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:42:18Z",
+      "correlation_id": "daef63cc-f974-485b-a483-7316a9c7fa32",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204218.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:42:48Z",
+      "correlation_id": "ae951609-fd5a-45ef-9b11-11fb390222a3",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204248.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:44:18Z",
+      "correlation_id": "355ec554-1d83-466f-a8cc-4edbe18bb80a",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204418.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:44:49Z",
+      "correlation_id": "6e0f25fd-d454-4520-aa70-3fcb074df15b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204449.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:46:19Z",
+      "correlation_id": "1e39d328-1a61-48b8-a394-61b30843593a",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204619.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:46:59Z",
+      "correlation_id": "2a9cdd0c-b247-4043-8f25-48ec3839ca70",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204659.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:48:20Z",
+      "correlation_id": "6e82d411-07d1-405c-a55c-af7c4176eb06",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204820.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:49:00Z",
+      "correlation_id": "10a5ba31-3fd3-4ba9-bfaa-e7f17332c960",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T204900.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:50:21Z",
+      "correlation_id": "63319147-e3d0-419a-9b19-a4dbe9cc171c",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205021.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:51:06Z",
+      "correlation_id": "2417c9d4-c313-498f-a089-a98357c5bc8b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205106.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:52:22Z",
+      "correlation_id": "7ce3e0dd-1d34-404e-9c76-a7ad534fa856",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205222.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:53:14Z",
+      "correlation_id": "40b9b536-ae36-4e4a-aa6f-cd677306b644",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205314.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:54:23Z",
+      "correlation_id": "adf1b5c6-1f5a-45ec-9d73-a1ae16eba888",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205423.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:55:17Z",
+      "correlation_id": "4ecabdb8-6ae6-4de0-9c5d-7b9cfaa9f5f3",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205517.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:56:24Z",
+      "correlation_id": "89290c23-b6ef-417c-b29f-af0257b305b4",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205624.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:57:25Z",
+      "correlation_id": "62cdeba8-c232-4457-946b-8c02985b9fdc",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205725.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:58:25Z",
+      "correlation_id": "d8abf4f8-8677-4f40-81a4-2e43f9ad0e83",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205825.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T20:59:28Z",
+      "correlation_id": "219fa8f5-336d-449a-a41c-f177c996a0ed",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T205928.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:00:25Z",
+      "correlation_id": "f715a8ec-98f3-48e6-9742-55a0ceaaadd6",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210025.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:01:33Z",
+      "correlation_id": "abbc367a-4e90-4298-bb39-b2bffb1adc32",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210133.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:02:26Z",
+      "correlation_id": "1e74972e-5c1e-4d68-9a6f-bf261f941731",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210226.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:03:38Z",
+      "correlation_id": "a0e4b6bb-dabe-48f5-a727-62470794b3c4",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210338.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:04:28Z",
+      "correlation_id": "cc61d833-b4c9-4cff-8be8-4ad40e25df91",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210428.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:05:51Z",
+      "correlation_id": "9ae1c4ab-a2b5-4390-bc7c-91f636828d68",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210551.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:06:38Z",
+      "correlation_id": "7245d800-9f8c-4015-b743-692a1172005f",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210638.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:07:53Z",
+      "correlation_id": "b7f4cbff-b5a7-4da7-b9e0-aaec4dc4117d",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210753.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:08:40Z",
+      "correlation_id": "25053d0f-5a09-4cef-a54d-91dc1c32ca7a",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210840.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:09:57Z",
+      "correlation_id": "830b79e9-43e6-41ed-9860-bfb58411f369",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T210957.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:10:45Z",
+      "correlation_id": "ad93390e-9c52-4c1e-8823-5bd0df0a7a94",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T211045.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:11:58Z",
+      "correlation_id": "09468f48-397d-4170-944f-c2f7f2173b12",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T211158.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:12:46Z",
+      "correlation_id": "b26e7e2b-5ca5-4043-8f9f-7aae2bdd24ce",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T211246.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:13:59Z",
+      "correlation_id": "48c411f2-37c6-4171-a88f-c06364062d5d",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T211359.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:14:47Z",
+      "correlation_id": "895472b8-7daa-4b5d-9b44-02df0af8a961",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T211447.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:16:00Z",
+      "correlation_id": "5a1e4dea-b92d-44f9-883a-85d8071e0835",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T211600.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:16:49Z",
+      "correlation_id": "6f4943d6-3056-45eb-9686-21a94eee92d6",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T211649.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:18:01Z",
+      "correlation_id": "5a94362c-f4d0-4e58-aec3-4ea28aeffb36",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T211801.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:18:57Z",
+      "correlation_id": "83c80d1d-86f0-43a6-9823-fce41ae21cdc",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T211857.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:20:02Z",
+      "correlation_id": "29c36316-87ca-4ed4-b0e1-9a65af6697f1",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212002.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:20:58Z",
+      "correlation_id": "d25b2b85-ade3-4b65-9676-24be5187c320",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212058.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:22:09Z",
+      "correlation_id": "09a181b6-03b8-4759-986f-2e6af0095dd6",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212209.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:22:59Z",
+      "correlation_id": "0e8d1d8e-61fb-4a9d-84af-57f713357655",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212259.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:24:17Z",
+      "correlation_id": "a73c7d5f-10cd-4af8-8f2d-18c103b3c1ec",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212417.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:25:00Z",
+      "correlation_id": "14f004d5-94cd-444e-a78a-e0b2f0518662",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212500.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:26:24Z",
+      "correlation_id": "8df835ab-2a5b-48c7-8c46-d88833614102",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212624.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:27:01Z",
+      "correlation_id": "cf8a3819-d061-43e9-8b52-e167e65375e4",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212701.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:28:30Z",
+      "correlation_id": "c6fbbb7e-4be6-4aff-9bae-47c57e68e70b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212830.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:29:01Z",
+      "correlation_id": "3dbdaecb-5fd2-4645-83e4-666294c20970",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T212901.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:30:34Z",
+      "correlation_id": "7f2d1bdf-0bd5-45ac-bb47-8c5066e0b34a",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213034.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:31:02Z",
+      "correlation_id": "f886c689-8e7b-41a4-a568-d88076d1e344",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213102.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:32:43Z",
+      "correlation_id": "2815c5be-1432-4139-a649-4b4f731cc12b",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213243.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:33:03Z",
+      "correlation_id": "2036ace5-2a30-4ee1-93f2-64adf4584053",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213303.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:34:43Z",
+      "correlation_id": "7d27d4c8-88d3-4650-b305-46b9b724a4e8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213443.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:35:04Z",
+      "correlation_id": "240045dc-566d-40bd-963c-90d01e8238c5",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213504.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:36:53Z",
+      "correlation_id": "3c8ca043-237e-4daf-a202-952b3e61fb34",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213653.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:37:05Z",
+      "correlation_id": "48eca4bf-2926-4f01-b43f-75d814fef457",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213705.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:39:04Z",
+      "correlation_id": "47941a26-7544-4f9a-8068-1e58772ad475",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213904.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:39:05Z",
+      "correlation_id": "0533f305-4090-4191-9b38-01f6757eacce",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T213905.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:41:05Z",
+      "correlation_id": "f0dac2a5-996c-4b3e-95cb-f14dd9d0db19",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214105.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:41:06Z",
+      "correlation_id": "2fc9fc45-3e16-4824-9d56-7e1b81a76f87",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214106.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:43:11Z",
+      "correlation_id": "2b6d10f0-fb66-4adf-ab89-86ed83ea5404",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214311.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:43:14Z",
+      "correlation_id": "0a9496e8-e7b1-48c9-b1fc-64a232f8e891",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214314.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:45:17Z",
+      "correlation_id": "66fd8edc-8116-46d6-b209-ea26e417d115",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214517.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:45:21Z",
+      "correlation_id": "de28b1cc-a395-4b60-be9f-20cecfa95287",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214521.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:47:24Z",
+      "correlation_id": "15f286eb-8268-4e30-bd2c-efaa841d24fe",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214724.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:47:26Z",
+      "correlation_id": "845d9f30-a07c-472d-81a1-c15dd876dfbc",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214726.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:49:33Z",
+      "correlation_id": "f06ce967-bd50-4c29-8eaf-92dec08029c8",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214933.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:49:36Z",
+      "correlation_id": "f384aaae-2e2f-4d33-8ae7-7c6722ccccc1",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T214936.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:51:36Z",
+      "correlation_id": "5f259934-7bb5-44dc-acb8-193a58a40038",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T215136.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    },
+    {
+      "timestamp": "2026-02-25T21:51:43Z",
+      "correlation_id": "7fd66cc6-f0d0-42cb-b811-37aa7c976664",
+      "actor": "gmail_watcher",
+      "action_type": "email_detected",
+      "target": "email-be-part-of-the-combine-foundation-digital-movement-20260225T215143.md",
+      "result": "dry_run",
+      "parameters": {
+        "message_id": "19c93f2a7a6ada85",
+        "subject": "Be Part of the Combine Foundation Digital Movement!",
+        "priority": "low",
+        "dry_run": true,
+        "dev_mode": true
+      }
+    }
+  ]
+}

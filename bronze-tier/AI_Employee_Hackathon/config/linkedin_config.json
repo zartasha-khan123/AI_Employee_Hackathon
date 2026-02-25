@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "_comment": "LinkedIn watcher configuration. Monitors content sources for business posts.",
+
+  "linkedin_account": {
+    "username": "zartashakhan775@gmail.com",
+    "password": "Zartash@123"
+  },
+
+  "poll_interval_seconds": 600,
+
+  "content_sources": [
+    "vault/Content_Calendar.md",
+    "vault/Business_Updates/",
+    "vault/Announcements/"
+  ],
+
+  "post_types": {
+    "business_update": {
+      "max_length": 3000,
+      "requires_approval": true,
+      "priority": "medium"
+    },
+    "announcement": {
+      "max_length": 3000,
+      "requires_approval": true,
+      "priority": "high"
+    },
+    "article_share": {
+      "max_length": 1000,
+      "requires_approval": false,
+      "priority": "low"
+    }
+  },
+
+  "rate_limits": {
+    "posts_per_day": 3,
+    "posts_per_week": 10
+  },
+
+  "exclude_keywords": [
+    "draft",
+    "wip",
+    "do not post",
+    "internal only",
+    "confidential"
+  ],
+
+  "content_validation": {
+    "max_post_length": 3000,
+    "min_post_length": 50,
+    "block_sensitive_keywords": [
+      "password",
+      "confidential",
+      "internal only",
+      "do not share"
+    ]
+  }
+}

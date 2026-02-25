@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv sync:*)",
+      "Bash(uv run pytest:*)",
+      "Bash(uv pip install:*)",
+      "Bash(uv run python -m pytest:*)",
+      "Bash(uv run python:*)",
+      "Bash(uv run ruff:*)",
+      "Bash($env:DRY_RUN=\"false\")",
+      "Bash($env:DEV_MODE=\"true\")",
+      "Bash($env:GMAIL_CREDENTIALS_PATH=\"config/credentials.json\")",
+      "Bash($env:GMAIL_TOKEN_PATH=\"config/token.json\")",
+      "Bash($env:GMAIL_CHECK_INTERVAL=\"120\")",
+      "Bash($env:GMAIL_KEYWORDS=\"urgent,invoice,payment,asap,help,deadline\")",
+      "Bash($env:LOG_LEVEL=\"INFO\")",
+      "Bash(DRY_RUN=false DEV_MODE=true GMAIL_CREDENTIALS_PATH=config/credentials.json GMAIL_TOKEN_PATH=config/token.json GMAIL_CHECK_INTERVAL=120 GMAIL_KEYWORDS=\"urgent,invoice,payment,asap,help,deadline\" LOG_LEVEL=INFO uv run python:*)",
+      "Bash(python -m pytest:*)",
+      "Bash(where:*)",
+      "Bash(echo:*)",
+      "Bash(uv run:*)",
+      "Bash(.venv/Scripts/python.exe -m pytest tests/test_linkedin_poster.py -v)",
+      "Bash(.venv/Scripts/pip.exe install:*)",
+      "Bash(.venv/Scripts/python.exe -m pip install:*)",
+      "Bash(uv add:*)",
+      "Bash(git fetch:*)",
+      "Bash(ls:*)",
+      "Bash(powershell:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:developers.google.com)",
+      "WebFetch(domain:modelcontextprotocol.github.io)",
+      "WebFetch(domain:anish-natekar.github.io)",
+      "Bash(git -C \"C:/Users/PMLS/Desktop/Personal AI Employee Hackathon 0 - Copy/Silver Tier/AI_Employee_Hackathon\" branch --show-current)",
+      "Bash(uv lock:*)"
+    ]
+  }
+}
